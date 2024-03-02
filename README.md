@@ -1,1 +1,2 @@
-# comfyui-plugins
+# comfyUI extensions recommadation
+
